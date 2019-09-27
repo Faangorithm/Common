@@ -20,7 +20,7 @@ For maintaining this repository, We have the rules of pull-requests and commits.
 ``` 
 You have to keep this directory structure.
 
-*If the meeting wasn't separated, you don't have to create Group directory.*
+**If the meeting wasn't separated, you don't have to create Group directory.**
 
 Each readme file in the meetings must contain the problem information(URL, text, etc...) and meeting report(Evaluation, approaches, etc...).
 
