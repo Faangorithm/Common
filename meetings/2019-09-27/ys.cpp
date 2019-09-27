@@ -1,3 +1,5 @@
+//Author Yunsoo
+//Date	 2019-09-27
 #define INF 987654321
 
 int pick(int idx, vector<int>& nums, int target, int num_picked, int local_sum){

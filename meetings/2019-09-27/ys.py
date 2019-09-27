@@ -1,3 +1,6 @@
+#Author Yunsoo
+#Date   2019-09-27
+
 INF = 987654321
 def pick(idx, arr, target, num_picked, local_sum):
     if num_picked == 3:
