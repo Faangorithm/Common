@@ -18,3 +18,20 @@
 이를 O(N^2)으로 투포인터와 같이 풀기 위해서는 숫자 x 에 대하여 가장 작은 수 + 가장 큰 수의 합이 타겟에 근접했는가에 대하여 left, right를 줄여가며 그 합의 차가 가장 작은것을 반환한다.
 
 Keywords: Greedy, Two Pointer, Sorting
+
+## 2019-10-01
+
+### 567 (Two pointer, String)
+
+#### 석호
+
+문제요약
+
+s1을 순열로 만들었을때 s2의 substring에 존재하는지 체크하고 만약 존재한다면 True를 반환하시오.
+
+나는 이 문제를 Twopinter, Sliding Winndow 기법으로 접근했다. 최종적인 시간복잡도는 O(N).
+
+이 문제는 순열을 직접 다 만들 필요가 없다. 구간에 그 숫자가 존재하는가? 에 대해 확인하는 과정만 잘 처리하면 순열을 만드는 O(!N)의 수고를 덜 수 있다.
+
+Keywords: Two pointer, String, Sliding Window
+
