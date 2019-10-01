@@ -35,3 +35,7 @@ s1을 순열로 만들었을때 s2의 substring에 존재하는지 체크하고 
 
 Keywords: Two pointer, String, Sliding Window
 
+#### 윤수 
+
+딕셔너리를 쓸 필요 없이 배열을 사용해서 처리하는 게 더 효율적이라고 생각한다. 
+조금 더 빠르게 풀 수 있다. 
