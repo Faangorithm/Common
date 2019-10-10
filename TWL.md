@@ -1,4 +1,4 @@
-# Today's We Learn
+# Today We Learned
 
 ## 2019-09-27(Fri)
 ### 16 (Two pointer)
