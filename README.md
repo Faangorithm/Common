@@ -1,10 +1,8 @@
 # FAANGORITHM
 
-Faangorithm is an Algorithm study group.  
+Faangorithm is a study group for algorithm.
 
-General Timetable and ruleset are [here](https://www.notion.so/FAANG-4a74457b08224695828f1daeeeca0b15).
-
-For maintaining this repository, We have the rules of pull-requests and commits.
+You can refer [here](https://www.notion.so/FAANG-4a74457b08224695828f1daeeeca0b15) to see a general timetable for study and a rule-set for pull-requests and commits of this repository.
 
 ## 1. Directory structure
 
@@ -17,16 +15,26 @@ For maintaining this repository, We have the rules of pull-requests and commits.
         │   └── name3.java
         ├── group 2(name4, name5, name6)
         └── readme.md
-``` 
-You have to keep this directory structure.
+```
+You must keep this directory structure.
 
-**If the meeting wasn't separated, you don't have to create Group directory.**
+- date
 
-Each readme file in the meetings must contain the problem information(URL, text, etc...) and meeting report(Evaluation, approaches, etc...).
+    - group
+
+        Study meetings will be divided into multiple groups.
+
+        Each group contains 3~4 people.
+
+        **If the total number of members is too small to divide meetings into groups, you don't have to create group directory.**
+
+    - readme file
+
+        Each readme file in the meetings must contain problem information(URL, text, etc...) and meeting report(evaluation, approaches, etc...).
 
 ## 2. Source file
 
-You have to write comments above the source code file.
+You have to write comments on the top of the source code file.
 
 \[Required\] Author	
 
@@ -55,10 +63,13 @@ Example code.
 
 ## 3. Commit
 
-You have to write down in English. 
+Commits must be written in English. 
 
 ## 4. Pull-request
 
-Pull-request is not different other projects.
+Rule of pull-requests is not different from other projects.
 
-Such as Fork, Pull, Commit, Push, PR.
+Just fork the project, add a new file, and send a PR to the master branch.
+
+Accepted PRs will be merged by rebase.
+
