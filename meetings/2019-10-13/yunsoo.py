@@ -1,3 +1,10 @@
+"""
+Author    Yunsoo Jung
+Date      2019-10-13
+URL       https://leetcode.com/problems/magical-string
+Approach  String, BruteForce
+"""
+
 class Solution:
     def magicalString(self, n):
         s = [1, 2, 2]
