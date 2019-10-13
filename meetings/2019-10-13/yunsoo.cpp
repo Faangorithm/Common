@@ -1,3 +1,8 @@
+//Author    Yunsoo Jung
+//Date      2019-10-13
+//URL       https://leetcode.com/problems/magical-string
+//Approach  String, BruteForce
+
 class Solution {
 public:
     int magicalString(int n) {
