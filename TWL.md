@@ -150,6 +150,6 @@ O(1)이 있을꺼라고 생각하며 그쪽을 팠으면 그대로 틀렸을것
 
 다음은 이번 문제를 풀기 위한 오토마타를 구성했고 그것을 가시화 한 것이다.
 
-![image](https://user-images.githubusercontent.com/18409763/67114608-4bb78a00-f217-11e9-90f7-8902e6792c60.png)
+![image](https://user-images.githubusercontent.com/18409763/67116441-5e33c280-f21b-11e9-8e19-1c779e22965f.png)  
 
 이를 코드로 옮긴 것이 이번 문제의 해답이 된다.
