@@ -153,3 +153,9 @@ O(1)이 있을꺼라고 생각하며 그쪽을 팠으면 그대로 틀렸을것
 ![image](https://user-images.githubusercontent.com/18409763/67138377-1d6c9580-f27d-11e9-81c2-a2df760c5665.png)
 
 이를 코드로 옮긴 것이 이번 문제의 해답이 된다.
+
+#### 윤수
+- **오토마타** 
+오토마타로 적용해보자 
+- **깃** 
+git reset --hard upstream/master : 내 커밋을 날리고, upstream의 head를 따라간다 
