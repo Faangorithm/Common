@@ -1,7 +1,7 @@
 //Author    Seokho Song
 //Date      2019-10-31
 //URL       https://leetcode.com/problems/maximum-swap/
-//Approach  Array
+//Approach  Array DP
 
 class Solution {
 public:
