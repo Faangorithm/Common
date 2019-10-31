@@ -163,3 +163,12 @@ O(1)이 있을꺼라고 생각하며 그쪽을 팠으면 그대로 틀렸을것
 
 #### 윤수 
 1. git reset --hard upstream/master를 쓰기 전에 git fetch upstream/master를 사용해서 fetch를 시키자.
+
+#### 석호
+
+1. 구현때 실수하지 말자. Codeforce 였으면 두번쯤은 Wrong Answer 났을듯
+
+2. 사실 N=8 이라 N^2 이여도 64번 반복한다 어찌보면 8*3 vs 8*8 정도의 수준이였을듯.
+
+3. 그래도 입력이 string 형태의 거대한 숫자였다면 N으로 풀어야 풀 수 있었을 수도 있음.
+
