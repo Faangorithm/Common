@@ -157,3 +157,9 @@ O(1)이 있을꺼라고 생각하며 그쪽을 팠으면 그대로 틀렸을것
 1. **git을 대충쓰지 말자** 
 커밋을 하나로 합쳐서 올리고, 깃 로그를 잘 살피자
 
+
+## 2019-10-31(Thurs)
+### 670 
+
+#### 윤수 
+1. git reset --hard upstream/master를 쓰기 전에 git fetch upstream/master를 사용해서 fetch를 시키자.
