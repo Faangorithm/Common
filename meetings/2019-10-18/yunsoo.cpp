@@ -2,7 +2,7 @@
 //Date      2019-10-19
 //URL       Approach  String, BruteForce
 //Approach  String
-"""
+
 
 class Solution {
 public:
